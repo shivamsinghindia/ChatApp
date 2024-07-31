@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "186585745183",
+    "project_id": "flash-chat-db809",
+    "storage_bucket": "flash-chat-db809.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:186585745183:android:9076ee0e4e6cab1b1ad22a",
+        "android_client_info": {
+          "package_name": "com.Srijan.chat_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "186585745183-gor1c1pabtjjbsov1qpk8dvtdkkv7o28.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyByhoHfmIZSUcfZbyzu9Tk8F_tbdFoW_V8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "186585745183-gor1c1pabtjjbsov1qpk8dvtdkkv7o28.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
